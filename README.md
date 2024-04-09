@@ -2,8 +2,6 @@
 
 OpenGL shader and [skeletal animation](doc/rigeditor.md) support for Ren'Py. The ShaderDemo Ren'Py project included in this repository has many examples about what this library can do.
 
-An improved and modified version of this library is currently used in adult visual novel [Offcuts](https://stencilbits.itch.io/offcuts) (NSFW link). That version has some general improvements but it's also tightly tied to that game and a specific Ren'Py version and is not for general use.
-
 # Examples
 
 * [Shader effects demo video](https://www.youtube.com/watch?v=nyDbvAy0Xa4)
